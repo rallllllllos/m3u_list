@@ -113,7 +113,7 @@ http://192.168.88.208:2112/rtp/239.49.1.101:6000
 http://192.168.88.208:2112/rtp/239.49.9.18:6000
 #EXTINF:-1 tvg-id="101" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="数字付费",中国教育1台
 http://192.168.88.208:2112/rtp/239.49.8.189:6000
-#EXTINF:-1 tvg-id="115" tvg-name="电视指南" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="数字付费",电视指南
+#EXTINF:-1 tvg-id="115" tvg-name="电视指南" tvg-logo="" group-title="数字付费",电视指南
 http://192.168.88.208:2112/rtp/239.49.9.5:6000
 #EXTINF:-1 tvg-id="116" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="数字付费",世界地理
 http://192.168.88.208:2112/rtp/239.49.9.8:6000
