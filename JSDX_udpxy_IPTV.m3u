@@ -83,77 +83,77 @@ http://192.168.88.208:2112/rtp/239.49.8.187:6000
 http://192.168.88.208:2112/rtp/239.49.8.184:6000
 #EXTINF:-1 tvg-id="52" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
 http://192.168.88.208:2112/rtp/239.49.8.227:6000
-#EXTINF:-1 tvg-id="200" tvg-name="" tvg-logo="" group-title="江苏",江苏城市FHD
+#EXTINF:-1 tvg-id="200" tvg-name="" tvg-logo="" group-title="江苏",江苏城市
 http://192.168.88.208:2112/rtp/239.49.9.35:6000
-#EXTINF:-1 tvg-id="201" tvg-name="" tvg-logo="" group-title="江苏",江苏导视FHD
+#EXTINF:-1 tvg-id="201" tvg-name="" tvg-logo="" group-title="江苏",江苏导视
 http://192.168.88.208:2112/rtp/239.49.8.150:6000
-#EXTINF:-1 tvg-id="202" tvg-name="" tvg-logo="" group-title="江苏",江苏教育FHD
+#EXTINF:-1 tvg-id="202" tvg-name="" tvg-logo="" group-title="江苏",江苏教育
 http://192.168.88.208:2112/rtp/239.49.9.42:6000
-#EXTINF:-1 tvg-id="203" tvg-name="" tvg-logo="" group-title="江苏",江苏卡通FHD
+#EXTINF:-1 tvg-id="203" tvg-name="" tvg-logo="" group-title="江苏",江苏卡通
 http://192.168.88.208:2112/rtp/239.49.9.39:6000
-#EXTINF:-1 tvg-id="204" tvg-name="" tvg-logo="" group-title="江苏",江苏体育FHD
+#EXTINF:-1 tvg-id="204" tvg-name="" tvg-logo="" group-title="江苏",江苏体育
 http://192.168.88.208:2112/rtp/239.49.9.37:6000
-#EXTINF:-1 tvg-id="205" tvg-name="" tvg-logo="" group-title="江苏",江苏新闻FHD
+#EXTINF:-1 tvg-id="205" tvg-name="" tvg-logo="" group-title="江苏",江苏新闻
 http://192.168.88.208:2112/rtp/239.49.9.40:6000
-#EXTINF:-1 tvg-id="206" tvg-name="" tvg-logo="" group-title="江苏",江苏影视FHD
+#EXTINF:-1 tvg-id="206" tvg-name="" tvg-logo="" group-title="江苏",江苏影视
 http://192.168.88.208:2112/rtp/239.49.9.38:6000
-#EXTINF:-1 tvg-id="207" tvg-name="" tvg-logo="" group-title="江苏",江苏综艺FHD
+#EXTINF:-1 tvg-id="207" tvg-name="" tvg-logo="" group-title="江苏",江苏综艺
 http://192.168.88.208:2112/rtp/239.49.9.36:6000
-#EXTINF:-1 tvg-id="208" tvg-name="" tvg-logo="" group-title="江苏",沛县新闻FHD
+#EXTINF:-1 tvg-id="208" tvg-name="" tvg-logo="" group-title="江苏",沛县新闻
 http://192.168.88.208:2112/rtp/239.49.9.19:6000
-#EXTINF:-1 tvg-id="209" tvg-name="" tvg-logo="" group-title="江苏",泰州经济FHD
+#EXTINF:-1 tvg-id="209" tvg-name="" tvg-logo="" group-title="江苏",泰州经济
 http://192.168.88.208:2112/rtp/239.49.1.100:6000
-#EXTINF:-1 tvg-id="210" tvg-name="" tvg-logo="" group-title="江苏",泰州影视FHD
+#EXTINF:-1 tvg-id="210" tvg-name="" tvg-logo="" group-title="江苏",泰州影视
 http://192.168.88.208:2112/rtp/239.49.1.101:6000
-#EXTINF:-1 tvg-id="211" tvg-name="" tvg-logo="" group-title="江苏",盱眙新闻FHD
+#EXTINF:-1 tvg-id="211" tvg-name="" tvg-logo="" group-title="江苏",盱眙新闻
 http://192.168.88.208:2112/rtp/239.49.9.18:6000
 #EXTINF:-1 tvg-id="100" tvg-name="" tvg-logo="" group-title="地方",4K花园
 http://192.168.88.208:2112/rtp/239.49.8.205:6000
-#EXTINF:-1 tvg-id="101" tvg-name="" tvg-logo="" group-title="地方",中国教育FHD
+#EXTINF:-1 tvg-id="101" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="地方",中国教育1台
 http://192.168.88.208:2112/rtp/239.49.8.189:6000
-#EXTINF:-1 tvg-id="102" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="地方",全纪实台FHD
+#EXTINF:-1 tvg-id="102" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="地方",全纪实台
 http://192.168.88.208:2112/rtp/239.49.8.179:6000
-#EXTINF:-1 tvg-id="103" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",冬奥纪实FHD
+#EXTINF:-1 tvg-id="103" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",冬奥纪实
 http://192.168.88.208:2112/rtp/239.49.8.202:6000
 #EXTINF:-1 tvg-id="104" tvg-name="" tvg-logo="" group-title="地方",动漫秀场FHD
 http://192.168.88.208:2112/rtp/239.49.8.178:6000
-#EXTINF:-1 tvg-id="106" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓FHD
+#EXTINF:-1 tvg-id="106" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓
 http://192.168.88.208:2112/rtp/239.49.1.225:6000
-#EXTINF:-1 tvg-id="107" tvg-name="" tvg-logo="" group-title="地方",暴走汽车FHD
+#EXTINF:-1 tvg-id="107" tvg-name="" tvg-logo="" group-title="地方",暴走汽车
 http://192.168.88.208:2112/rtp/239.49.8.206:6000
 #EXTINF:-1 tvg-id="108" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="地方",欢笑剧场4K
 http://192.168.88.208:2112/rtp/239.49.8.231:6000
-#EXTINF:-1 tvg-id="109" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="地方",游戏风云FHD
+#EXTINF:-1 tvg-id="109" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="地方",游戏风云
 http://192.168.88.208:2112/rtp/239.49.8.176:6000
-#EXTINF:-1 tvg-id="110" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",湘茶频道FHD
+#EXTINF:-1 tvg-id="110" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道
 http://192.168.88.208:2112/rtp/239.49.1.234:6000
-#EXTINF:-1 tvg-id="111" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="地方",生活时尚FHD
+#EXTINF:-1 tvg-id="111" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="地方",生活时尚
 http://192.168.88.208:2112/rtp/239.49.8.175:6000
-#EXTINF:-1 tvg-id="112" tvg-name="" tvg-logo="" group-title="地方",都市剧场FHD
+#EXTINF:-1 tvg-id="112" tvg-name="" tvg-logo="" group-title="地方",都市剧场
 http://192.168.88.208:2112/rtp/239.49.8.180:6000
-#EXTINF:-1 tvg-id="113" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="地方",金鹰卡通FHD
+#EXTINF:-1 tvg-id="113" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="地方",金鹰卡通
 http://192.168.88.208:2112/rtp/239.49.9.23:6000
-#EXTINF:-1 tvg-id="114" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实FHD
+#EXTINF:-1 tvg-id="114" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
 http://192.168.88.208:2112/rtp/239.49.8.203:6000
-#EXTINF:-1 tvg-id="115" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="地方",魅力足球FHD
+#EXTINF:-1 tvg-id="115" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="地方",魅力足球
 http://192.168.88.208:2112/rtp/239.49.8.181:6000
-#EXTINF:-1 tvg-id="116" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="数字付费",世界地理FHD
+#EXTINF:-1 tvg-id="116" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="数字付费",世界地理
 http://192.168.88.208:2112/rtp/239.49.9.8:6000
-#EXTINF:-1 tvg-id="117" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="数字付费",兵器科技FHD
+#EXTINF:-1 tvg-id="117" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="数字付费",兵器科技
 http://192.168.88.208:2112/rtp/239.49.9.9:6000
-#EXTINF:-1 tvg-id="118" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="数字付费",央视台球FHD
+#EXTINF:-1 tvg-id="118" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="数字付费",央视台球
 http://192.168.88.208:2112/rtp/239.49.9.22:6000
-#EXTINF:-1 tvg-id="119" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="数字付费",女性时尚FHD
+#EXTINF:-1 tvg-id="119" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="数字付费",女性时尚
 http://192.168.88.208:2112/rtp/239.49.9.14:6000
-#EXTINF:-1 tvg-id="120" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="数字付费",怀旧剧场FHD
+#EXTINF:-1 tvg-id="120" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="数字付费",怀旧剧场
 http://192.168.88.208:2112/rtp/239.49.9.12:6000
-#EXTINF:-1 tvg-id="123" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="数字付费",第一剧场FHD
+#EXTINF:-1 tvg-id="123" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="数字付费",第一剧场
 http://192.168.88.208:2112/rtp/239.49.9.15:6000
-#EXTINF:-1 tvg-id="124" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="数字付费",风云剧场FHD
+#EXTINF:-1 tvg-id="124" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="数字付费",风云剧场
 http://192.168.88.208:2112/rtp/239.49.9.10:6000
-#EXTINF:-1 tvg-id="125" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="数字付费",风云足球FHD
+#EXTINF:-1 tvg-id="125" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="数字付费",风云足球
 http://192.168.88.208:2112/rtp/239.49.9.6:6000
-#EXTINF:-1 tvg-id="126" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="数字付费",风云音乐FHD
+#EXTINF:-1 tvg-id="126" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="数字付费",风云音乐
 http://192.168.88.208:2112/rtp/239.49.9.13:6000
-#EXTINF:-1 tvg-id="127" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="数字付费",高尔夫网球FHD
+#EXTINF:-1 tvg-id="127" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="数字付费",高尔夫网球
 http://192.168.88.208:2112/rtp/239.49.9.7:6000
