@@ -53,7 +53,7 @@ http://192.168.88.208:2112/rtp/239.49.8.143:6000
 http://192.168.88.208:2112/rtp/239.49.8.145:6000
 #EXTINF:-1 tvg-id="31" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
 http://192.168.88.208:2112/rtp/239.49.8.173:6000
-#EXTINF:-1 tvg-id="32" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
+#EXTINF:-1 tvg-id="32" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
 http://192.168.88.208:2112/rtp/239.49.8.212:6000
 #EXTINF:-1 tvg-id="33" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
 http://192.168.88.208:2112/rtp/239.49.8.146:6000
@@ -83,6 +83,8 @@ http://192.168.88.208:2112/rtp/239.49.8.187:6000
 http://192.168.88.208:2112/rtp/239.49.8.184:6000
 #EXTINF:-1 tvg-id="52" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
 http://192.168.88.208:2112/rtp/239.49.8.227:6000
+#EXTINF:-1 tvg-id="59" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
+http://192.168.88.208:2112/rtp/239.49.9.23:6000
 #EXTINF:-1 tvg-id="200" tvg-name="" tvg-logo="" group-title="江苏",江苏城市
 http://192.168.88.208:2112/rtp/239.49.9.35:6000
 #EXTINF:-1 tvg-id="201" tvg-name="" tvg-logo="" group-title="江苏",江苏导视
@@ -131,8 +133,6 @@ http://192.168.88.208:2112/rtp/239.49.1.234:6000
 http://192.168.88.208:2112/rtp/239.49.8.175:6000
 #EXTINF:-1 tvg-id="112" tvg-name="" tvg-logo="" group-title="地方",都市剧场
 http://192.168.88.208:2112/rtp/239.49.8.180:6000
-#EXTINF:-1 tvg-id="113" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="地方",金鹰卡通
-http://192.168.88.208:2112/rtp/239.49.9.23:6000
 #EXTINF:-1 tvg-id="114" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
 http://192.168.88.208:2112/rtp/239.49.8.203:6000
 #EXTINF:-1 tvg-id="115" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="地方",魅力足球
