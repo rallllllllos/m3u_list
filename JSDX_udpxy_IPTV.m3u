@@ -47,7 +47,7 @@ http://192.168.88.208:2112/rtp/239.49.8.141:6000
 http://192.168.88.208:2112/rtp/239.49.8.140:6000
 #EXTINF:-1 tvg-id="28" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 http://192.168.88.208:2112/rtp/239.49.8.204:6000
-#EXTINF:-1 tvg-id="29" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
+#EXTINF:-1 tvg-id="29" tvg-name="广东卫视" tvg-logo="https://www.right.com.cn/forum/forum.php?mod=attachment&aid=Mzc1Njg0fDAwNWJlMzBkfDE2MzkyMDM2NTF8NzI1MzgwfDM5OTMzODU%3D&noupdate=yes" group-title="卫视",广东卫视
 http://192.168.88.208:2112/rtp/239.49.8.143:6000
 #EXTINF:-1 tvg-id="30" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://192.168.88.208:2112/rtp/239.49.8.145:6000
