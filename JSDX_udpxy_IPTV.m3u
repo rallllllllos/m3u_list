@@ -85,6 +85,8 @@ http://192.168.88.208:2112/rtp/239.49.8.184:6000
 http://192.168.88.208:2112/rtp/239.49.8.227:6000
 #EXTINF:-1 tvg-id="59" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
 http://192.168.88.208:2112/rtp/239.49.9.23:6000
+#EXTINF:-1 tvg-id="213" tvg-name="盐城电视一套" tvg-logo="" group-title="江苏",盐城1
+http://192.168.88.208:2112/rtp/239.49.9.51:6000
 #EXTINF:-1 tvg-id="200" tvg-name="" tvg-logo="" group-title="江苏",江苏城市
 http://192.168.88.208:2112/rtp/239.49.9.35:6000
 #EXTINF:-1 tvg-id="212" tvg-name="水韵江苏" tvg-logo="" group-title="江苏",水韵江苏
@@ -137,14 +139,18 @@ http://192.168.88.208:2112/rtp/239.49.9.13:6000
 http://192.168.88.208:2112/rtp/239.49.9.7:6000
 #EXTINF:-1 tvg-id="128" tvg-name="央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="数字付费",央视精品
 http://192.168.88.208:2112/rtp/239.49.9.11:6000
+#EXTINF:-1 tvg-id="129" tvg-name="超级体育" tvg-logo="" group-title="数字付费",超级体育
+http://192.168.88.208:2112/rtp/239.49.8.25:9104
 #EXTINF:-1 tvg-id="100" tvg-name="" tvg-logo="" group-title="地方",4K花园
 http://192.168.88.208:2112/rtp/239.49.8.205:6000
 #EXTINF:-1 tvg-id="102" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="地方",全纪实台
 http://192.168.88.208:2112/rtp/239.49.8.179:6000
 #EXTINF:-1 tvg-id="103" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",冬奥纪实
 http://192.168.88.208:2112/rtp/239.49.8.202:6000
-#EXTINF:-1 tvg-id="104" tvg-name="" tvg-logo="" group-title="地方",动漫秀场FHD
+#EXTINF:-1 tvg-id="104" tvg-name="" tvg-logo="" group-title="地方",动漫秀场
 http://192.168.88.208:2112/rtp/239.49.8.178:6000
+#EXTINF:-1 tvg-id="105" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方",优漫卡通
+http://192.168.88.208:2112/rtp/239.49.9.39:6000
 #EXTINF:-1 tvg-id="106" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓
 http://192.168.88.208:2112/rtp/239.49.1.225:6000
 #EXTINF:-1 tvg-id="107" tvg-name="" tvg-logo="" group-title="地方",暴走汽车
