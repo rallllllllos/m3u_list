@@ -14,7 +14,7 @@ http://172.172.0.2:7088/rtp/239.49.8.137:6000
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影
 http://172.172.0.2:7088/rtp/239.49.9.33:6000
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7军事
-http://172.172.0.2:7088/rtp/239.49.1.254:6000
+http://172.172.0.2:7088/rtp/239.49.0.126:8000
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8电视剧
 http://172.172.0.2:7088/rtp/239.49.9.34:6000
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9纪录
@@ -22,7 +22,7 @@ http://172.172.0.2:7088/rtp/239.49.8.133:6000
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10科教
 http://172.172.0.2:7088/rtp/239.49.8.134:6000
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11戏曲
-http://172.172.0.2:7088/rtp/239.49.0.11:8080
+http://172.172.0.2:7088/rtp/239.49.0.127:8000
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法
 http://172.172.0.2:7088/rtp/239.49.8.135:6000
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻
@@ -30,7 +30,7 @@ http://172.172.0.2:7088/rtp/239.49.9.43:6000
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿
 http://172.172.0.2:7088/rtp/239.49.8.136:6000
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
-http://172.172.0.2:7088/rtp/239.49.0.15:8112
+http://172.172.0.2:7088/rtp/239.49.0.128:8000
 #EXTINF:-1 tvg-id="22" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16奥林匹克
 http://172.172.0.2:7088/rtp/239.49.9.59:6000
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业
@@ -123,8 +123,12 @@ http://172.172.0.2:7088/rtp/239.49.8.25:9104
 http://172.172.0.2:7088/rtp/239.49.8.205:6000
 #EXTINF:-1 tvg-id="619" tvg-name="" tvg-logo="" group-title="地方",动漫秀场
 http://172.172.0.2:7088/rtp/239.49.8.178:6000
+#EXTINF:-1 tvg-id="620" tvg-name="" tvg-logo="" group-title="地方",第一财经
+http://172.172.0.2:7088/rtp/239.49.8.37:8000
 #EXTINF:-1 tvg-id="63" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="数字付费",中国教育1台
 http://172.172.0.2:7088/rtp/239.49.8.189:6000
+#EXTINF:-1 tvg-id="66" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="数字付费",中国教育4台
+http://172.172.0.2:7088/rtp/239.49.0.125:8000
 #EXTINF:-1 tvg-id="75" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="数字付费",风云足球
 http://172.172.0.2:7088/rtp/239.49.9.6:6000
 #EXTINF:-1 tvg-id="83" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="数字付费",风云音乐
