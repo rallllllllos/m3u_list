@@ -89,26 +89,26 @@ http://172.172.0.2:7088/rtp/239.49.9.23:6000
 http://172.172.0.2:7088/rtp/239.49.9.51:6000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",江苏城市
 http://172.172.0.2:7088/rtp/239.49.9.35:6000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",江苏教育
-http://172.172.0.2:7088/rtp/239.49.9.42:6000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",江苏卡通
-http://172.172.0.2:7088/rtp/239.49.9.39:6000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",江苏体育
-http://172.172.0.2:7088/rtp/239.49.9.37:6000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",江苏新闻
-http://172.172.0.2:7088/rtp/239.49.9.40:6000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",江苏影视
-http://172.172.0.2:7088/rtp/239.49.9.38:6000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",江苏综艺
 http://172.172.0.2:7088/rtp/239.49.9.36:6000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",沛县新闻
-http://172.172.0.2:7088/rtp/239.49.9.19:6000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",江苏体育
+http://172.172.0.2:7088/rtp/239.49.9.37:6000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",江苏影视
+http://172.172.0.2:7088/rtp/239.49.9.38:6000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",江苏卡通
+http://172.172.0.2:7088/rtp/239.49.9.39:6000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",江苏新闻
+http://172.172.0.2:7088/rtp/239.49.9.40:6000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",江苏教育
+http://172.172.0.2:7088/rtp/239.49.9.42:6000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",泰州经济
 http://172.172.0.2:7088/rtp/239.49.1.100:6000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",泰州影视
 http://172.172.0.2:7088/rtp/239.49.1.101:6000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",盱眙新闻
 http://172.172.0.2:7088/rtp/239.49.9.18:6000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",沛县新闻
+http://172.172.0.2:7088/rtp/239.49.9.19:6000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",暴走汽车
 http://172.172.0.2:7088/rtp/239.49.8.206:6000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",都市剧场
