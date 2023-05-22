@@ -89,10 +89,6 @@ http://172.172.0.2:7088/rtp/239.49.9.23:6000
 http://172.172.0.2:7088/rtp/239.49.9.51:6000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",江苏城市
 http://172.172.0.2:7088/rtp/239.49.9.35:6000
-#EXTINF:-1 tvg-id="" tvg-name="水韵江苏" tvg-logo="" group-title="江苏",水韵江苏
-http://172.172.0.2:7088/rtp/239.49.8.155:6000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",江苏导视
-http://172.172.0.2:7088/rtp/239.49.8.150:6000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",江苏教育
 http://172.172.0.2:7088/rtp/239.49.9.42:6000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",江苏卡通
@@ -117,8 +113,6 @@ http://172.172.0.2:7088/rtp/239.49.9.18:6000
 http://172.172.0.2:7088/rtp/239.49.8.206:6000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",都市剧场
 http://172.172.0.2:7088/rtp/239.49.8.180:6000
-#EXTINF:-1 tvg-id="" tvg-name="超级体育" tvg-logo="" group-title="数字付费",超级体育
-http://172.172.0.2:7088/rtp/239.49.8.25:9104
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",4K花园
 http://172.172.0.2:7088/rtp/239.49.8.205:6000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",动漫秀场
