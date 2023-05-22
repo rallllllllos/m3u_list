@@ -159,10 +159,6 @@ http://172.172.0.2:7088/rtp/239.49.9.63:6000
 http://172.172.0.2:7088/rtp/239.49.9.62:6000
 #EXTINF:-1 tvg-id="6555" tvg-name="中数梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="数字付费",梨园
 http://172.172.0.2:7088/rtp/239.49.9.61:6000
-#EXTINF:-1 tvg-id="1872" tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京纪实
-http://172.172.0.2:7088/rtp/239.49.8.202:6000
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育频道
-http://172.172.0.2:7088/rtp/239.49.8.166:6000
 #EXTINF:-1 tvg-id="1976" tvg-name="乐游" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",全纪实台
 http://172.172.0.2:7088/rtp/239.49.8.179:6000
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场4K
