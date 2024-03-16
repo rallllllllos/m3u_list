@@ -109,10 +109,6 @@ http://172.172.0.2:7088/rtp/239.49.9.40:6000
 http://172.172.0.2:7088/rtp/239.49.9.42:6000
 #EXTINF:-1 tvg-id="" tvg-name="盐城电视一套" tvg-logo="" group-title="江苏",盐城1
 http://172.172.0.2:7088/rtp/239.49.9.51:6000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",泰州经济
-http://172.172.0.2:7088/rtp/239.49.1.100:6000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",泰州影视
-http://172.172.0.2:7088/rtp/239.49.0.101:6000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",连云港综合
 http://172.172.0.2:7088/rtp/239.49.1.244:6000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",连云港公共
