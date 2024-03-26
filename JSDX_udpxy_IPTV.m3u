@@ -84,13 +84,13 @@ http://172.172.0.2:7088/rtp/239.49.8.113:8000
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
 http://172.172.0.2:7088/rtp/239.49.8.110:8000
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
-http://172.172.0.2:7088/rtp/239.49.8.177:8000
+http://172.172.0.2:7088/rtp/239.49.0.177:8000
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
 http://172.172.0.2:7088/rtp/239.49.0.167:8000
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="湖南",金鹰纪实
 http://172.172.0.2:7088/rtp/239.49.8.79:8000
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="湖南",金鹰卡通
-http://172.172.0.2:7088/rtp/239.49.9.33:8000
+http://172.172.0.2:7088/rtp/239.49.8.33:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E6%B1%9F%E8%8B%8F%E5%9F%8E%E5%B8%82.png" group-title="江苏",江苏城市
 http://172.172.0.2:7088/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E6%B1%9F%E8%8B%8F%E7%BB%BC%E8%89%BA.png" group-title="江苏",江苏综艺
