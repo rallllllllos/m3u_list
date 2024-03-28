@@ -121,11 +121,11 @@ http://172.172.0.2:7088/rtp/239.49.9.18:6000
 http://172.172.0.2:7088/rtp/239.49.9.19:6000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",暴走汽车
 http://172.172.0.2:7088/rtp/239.49.8.206:6000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",都市剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="地方",都市剧场
 http://172.172.0.2:7088/rtp/239.49.8.180:6000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",4K花园
 http://172.172.0.2:7088/rtp/239.49.8.205:6000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",动漫秀场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="地方",动漫秀场
 http://172.172.0.2:7088/rtp/239.49.8.178:6000
 #EXTINF:-1 tvg-id="73" tvg-name="教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="数字付费",中国教育1台
 http://172.172.0.2:7088/rtp/239.49.8.115:8000
@@ -163,13 +163,13 @@ http://172.172.0.2:7088/rtp/239.49.9.63:6000
 http://172.172.0.2:7088/rtp/239.49.9.62:6000
 #EXTINF:-1 tvg-id="6555" tvg-name="中数梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="河南",梨园
 http://172.172.0.2:7088/rtp/239.49.8.193:8000
-#EXTINF:-1 tvg-id="1976" tvg-name="乐游" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",乐游
+#EXTINF:-1 tvg-id="1976" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="上海",乐游
 http://172.172.0.2:7088/rtp/239.49.8.179:6000
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场4K
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="上海",欢笑剧场4K
 http://172.172.0.2:7088/rtp/239.49.8.106:8000
-#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="上海",生活时尚
 http://172.172.0.2:7088/rtp/239.49.8.175:6000
-#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="上海",游戏风云
 http://172.172.0.2:7088/rtp/239.49.8.176:6000
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="上海",第一财经
 http://172.172.0.2:7088/rtp/239.49.8.37:8000
